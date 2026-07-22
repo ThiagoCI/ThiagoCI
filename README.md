@@ -1,9 +1,6 @@
 ### Sobre mim
 
-Oi, sou o Thiago! Sênior Full-Stack Developer com foco em construir e evoluir aplicações web de ponta a ponta. Transformo requisitos de negócio em entregas bem desenhadas, escaláveis e de alta performance.
+Arquiteto Full-Stack focado em sistemas escaláveis e bem desenhados. Trabalho ponta a ponta 
 
-### 🛠 Tech Stack
-
-- **Linguagens:** PHP, JavaScript, HTML, CSS, Node.js, Python, C, MySQL, PostgreSQL, Redis
-- **Frameworks:** Laravel, Bootstrap, Tailwind CSS
-- **Foco:** Desenvolvimento Full Stack, Arquitetura de Sistemas, Otimização de Desempenho
+— PHP/Laravel, JavaScript, Node.js 
+— e aplico IA de forma prática: automação, integrações LLM e agentes voltados a problema de negócio.
